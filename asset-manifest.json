@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/FloppyCS.github.io/static/css/main.be1bfac2.chunk.css",
+    "main.js": "/FloppyCS.github.io/static/js/main.d0bc6756.chunk.js",
+    "main.js.map": "/FloppyCS.github.io/static/js/main.d0bc6756.chunk.js.map",
+    "runtime-main.js": "/FloppyCS.github.io/static/js/runtime-main.580fc678.js",
+    "runtime-main.js.map": "/FloppyCS.github.io/static/js/runtime-main.580fc678.js.map",
+    "static/js/2.b9959374.chunk.js": "/FloppyCS.github.io/static/js/2.b9959374.chunk.js",
+    "static/js/2.b9959374.chunk.js.map": "/FloppyCS.github.io/static/js/2.b9959374.chunk.js.map",
+    "index.html": "/FloppyCS.github.io/index.html",
+    "precache-manifest.f589d05dd6a2b2b7492553ef6ffed4ce.js": "/FloppyCS.github.io/precache-manifest.f589d05dd6a2b2b7492553ef6ffed4ce.js",
+    "service-worker.js": "/FloppyCS.github.io/service-worker.js",
+    "static/css/main.be1bfac2.chunk.css.map": "/FloppyCS.github.io/static/css/main.be1bfac2.chunk.css.map",
+    "static/js/2.b9959374.chunk.js.LICENSE.txt": "/FloppyCS.github.io/static/js/2.b9959374.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/FloppyCS.github.io/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/features-split-image-01.png": "/FloppyCS.github.io/static/media/features-split-image-01.9a5af346.png",
+    "static/media/features-split-image-02.png": "/FloppyCS.github.io/static/media/features-split-image-02.bed789a3.png",
+    "static/media/features-split-image-03.png": "/FloppyCS.github.io/static/media/features-split-image-03.471b5bdb.png",
+    "static/media/logo.png": "/FloppyCS.github.io/static/media/logo.5bb0eeb3.png",
+    "static/media/video-placeholder.jpg": "/FloppyCS.github.io/static/media/video-placeholder.a622fc5d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.580fc678.js",
+    "static/js/2.b9959374.chunk.js",
+    "static/css/main.be1bfac2.chunk.css",
+    "static/js/main.d0bc6756.chunk.js"
+  ]
+}
